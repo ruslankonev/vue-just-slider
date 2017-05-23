@@ -1,2 +1,3 @@
 # vue-just-slider
-Simple slider on veu.js 
+
+Simple image slider on Vue.js
