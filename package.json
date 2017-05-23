@@ -1,0 +1,23 @@
+{
+  "name": "vue-just-slider",
+  "version": "0.0.1",
+  "description": "Simple Vue.js slider plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslankonev/vue-just-slider.git"
+  },
+  "keywords": [
+    "vue.js",
+    "image slider",
+  ],
+  "author": "Ruslan Konev <konev.lincor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruslankonev/vue-just-slider/issues"
+  },
+  "homepage": "https://github.com/ruslankonev/vue-just-slider#readme"
+}
